@@ -1,1 +1,1 @@
-GitHum-project-main
+GitHub-project-main
